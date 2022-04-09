@@ -68,7 +68,7 @@ This site is used for posting, editing and deleting tech blogs. You can add comm
 
 ## Heroku
 
-deployed wesite: ![Tech Blog]()
+deployed wesite: ![Tech Blog](https://still-bayou-19837.herokuapp.com/)
 
 ## Challanges
 
